@@ -30,6 +30,11 @@
 		B253BF5A1CB2C575006B136E /* shop.png in Resources */ = {isa = PBXBuildFile; fileRef = B253BF4C1CB2C575006B136E /* shop.png */; };
 		B28C6FB11CB5742200DA45D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B28C6FB01CB5742200DA45D0 /* ViewController.swift */; };
 		B28C6FB31CB5743C00DA45D0 /* colvwCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B28C6FB21CB5743C00DA45D0 /* colvwCell.swift */; };
+		B28FBB051CB7833D00D96314 /* people.png in Resources */ = {isa = PBXBuildFile; fileRef = B28FBB041CB7833D00D96314 /* people.png */; };
+		B28FBB071CB7834300D96314 /* 1_cog_gear_monotone_settings_16px_406_easyicon.net.png in Resources */ = {isa = PBXBuildFile; fileRef = B28FBB061CB7834300D96314 /* 1_cog_gear_monotone_settings_16px_406_easyicon.net.png */; };
+		B28FBB091CB783D900D96314 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = B28FBB081CB783D900D96314 /* person.png */; };
+		B28FBB0B1CB7846B00D96314 /* backgroud.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B28FBB0A1CB7846B00D96314 /* backgroud.jpg */; };
+		B28FBB0D1CB784C800D96314 /* setting_72px_1160206_easyicon.net.png in Resources */ = {isa = PBXBuildFile; fileRef = B28FBB0C1CB784C800D96314 /* setting_72px_1160206_easyicon.net.png */; };
 		B2EEA9EC1CB02C2A0020D8C4 /* IndexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2EEA9EB1CB02C2A0020D8C4 /* IndexViewController.swift */; };
 		B2EEA9EE1CB02C510020D8C4 /* MarketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2EEA9ED1CB02C510020D8C4 /* MarketViewController.swift */; };
 		B2EEA9F01CB02C6D0020D8C4 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2EEA9EF1CB02C6D0020D8C4 /* ListViewController.swift */; };
@@ -83,6 +88,11 @@
 		B253BF4C1CB2C575006B136E /* shop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shop.png; sourceTree = "<group>"; };
 		B28C6FB01CB5742200DA45D0 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B28C6FB21CB5743C00DA45D0 /* colvwCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = colvwCell.swift; sourceTree = "<group>"; };
+		B28FBB041CB7833D00D96314 /* people.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = people.png; sourceTree = "<group>"; };
+		B28FBB061CB7834300D96314 /* 1_cog_gear_monotone_settings_16px_406_easyicon.net.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1_cog_gear_monotone_settings_16px_406_easyicon.net.png; sourceTree = "<group>"; };
+		B28FBB081CB783D900D96314 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = "<group>"; };
+		B28FBB0A1CB7846B00D96314 /* backgroud.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backgroud.jpg; sourceTree = "<group>"; };
+		B28FBB0C1CB784C800D96314 /* setting_72px_1160206_easyicon.net.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting_72px_1160206_easyicon.net.png; sourceTree = "<group>"; };
 		B2EEA9EB1CB02C2A0020D8C4 /* IndexViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IndexViewController.swift; path = ../IndexViewController.swift; sourceTree = "<group>"; };
 		B2EEA9ED1CB02C510020D8C4 /* MarketViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MarketViewController.swift; path = ../MarketViewController.swift; sourceTree = "<group>"; };
 		B2EEA9EF1CB02C6D0020D8C4 /* ListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ListViewController.swift; path = ../ListViewController.swift; sourceTree = "<group>"; };
@@ -184,6 +194,11 @@
 				B253BF451CB2C575006B136E /* male.png */,
 				B253BF461CB2C575006B136E /* message.png */,
 				B253BF471CB2C575006B136E /* messager.png */,
+				B28FBB0C1CB784C800D96314 /* setting_72px_1160206_easyicon.net.png */,
+				B28FBB041CB7833D00D96314 /* people.png */,
+				B28FBB0A1CB7846B00D96314 /* backgroud.jpg */,
+				B28FBB081CB783D900D96314 /* person.png */,
+				B28FBB061CB7834300D96314 /* 1_cog_gear_monotone_settings_16px_406_easyicon.net.png */,
 				B253BF481CB2C575006B136E /* pgs.png */,
 				B253BF491CB2C575006B136E /* sale.png */,
 				B253BF4A1CB2C575006B136E /* setting.png */,
@@ -304,17 +319,22 @@
 				B249DF0A1CAF93020034BB08 /* LaunchScreen.storyboard in Resources */,
 				B253BF4E1CB2C575006B136E /* button.png in Resources */,
 				B253BF541CB2C575006B136E /* message.png in Resources */,
+				B28FBB0B1CB7846B00D96314 /* backgroud.jpg in Resources */,
 				B253BF521CB2C575006B136E /* list1.png in Resources */,
 				B253BF4F1CB2C575006B136E /* home.png in Resources */,
 				B253BF561CB2C575006B136E /* pgs.png in Resources */,
+				B28FBB091CB783D900D96314 /* person.png in Resources */,
 				B253BF4D1CB2C575006B136E /* bubble.png in Resources */,
 				B249DF071CAF93020034BB08 /* Assets.xcassets in Resources */,
 				B253BF581CB2C575006B136E /* setting.png in Resources */,
+				B28FBB0D1CB784C800D96314 /* setting_72px_1160206_easyicon.net.png in Resources */,
 				B253BF571CB2C575006B136E /* sale.png in Resources */,
 				B253BF531CB2C575006B136E /* male.png in Resources */,
 				B249DF051CAF93020034BB08 /* Main.storyboard in Resources */,
+				B28FBB071CB7834300D96314 /* 1_cog_gear_monotone_settings_16px_406_easyicon.net.png in Resources */,
 				B253BF5A1CB2C575006B136E /* shop.png in Resources */,
 				B253BF501CB2C575006B136E /* lighting.png in Resources */,
+				B28FBB051CB7833D00D96314 /* people.png in Resources */,
 				B203CE2B1CB359DC009EC849 /* events.plist in Resources */,
 				B253BF551CB2C575006B136E /* messager.png in Resources */,
 				B253BF511CB2C575006B136E /* list.png in Resources */,
